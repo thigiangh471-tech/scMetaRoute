@@ -113,7 +113,7 @@ If you find this repository helpful, please cite:
   author={Li, JiaNan and Liu, JiaHao and Yu, XiaoJiang and Yang, Fan and Zeng, Feng},
   year={2026},
   note={Preprint},
-  url={https://github.com/你的用户名/你的仓库名}
+  url={https://github.com/thigiangh471-tech/scMetaRoute}
 }
 ```
 
