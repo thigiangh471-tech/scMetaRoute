@@ -1,0 +1,6 @@
+task	status	metrics	reason
+Neighborhood preservation	completed	4	
+Downstream clustering	completed	4	
+Gene co-expression	completed	4	
+Cross-donor annotation	completed	4	
+Disease differential expression	not_applicable	0	No eligible contrast has reference genes with Welch BH < 0.05.

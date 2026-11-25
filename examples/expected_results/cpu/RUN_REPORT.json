@@ -1,0 +1,57 @@
+{
+  "anchor": "graph",
+  "base_epochs": 160,
+  "batch_size": 512,
+  "cell_count": 5000,
+  "deterministic": false,
+  "device": "cpu",
+  "epoch_max": 300,
+  "final_merger": "ward",
+  "fit_rows": 5000,
+  "fit_scope": "full_data",
+  "graph_epochs": 40,
+  "graph_lambda": 0.05,
+  "hvg_count": 2000,
+  "latent_dim": 32,
+  "metacells": 100,
+  "micro_count": 150,
+  "microcells": 150,
+  "min_support": 8,
+  "requested_base_epochs": 160,
+  "requested_graph_epochs": 40,
+  "runtime_sec": 339.72427878621966,
+  "seed": 1101,
+  "stage1": {
+    "kmeans_method": "full_kmeans_ninit3",
+    "micro_count_after_repair": 149,
+    "tree": {
+      "backbone_edge_count": 99,
+      "backbone_scale": 0.1,
+      "cophenetic_tau": 19.314217621333274,
+      "edge_count": 504,
+      "k": 8,
+      "mean_degree": 10.08,
+      "weight_max": 0.896770821328159,
+      "weight_min": 0.029010042757702328
+    }
+  },
+  "stage2": {
+    "kmeans_method": "full_kmeans_ninit3",
+    "micro_count_after_repair": 149,
+    "tree": {
+      "backbone_edge_count": 99,
+      "backbone_scale": 0.1,
+      "cophenetic_tau": 16.32007358814161,
+      "edge_count": 485,
+      "k": 8,
+      "mean_degree": 9.7,
+      "weight_max": 0.9497525251826975,
+      "weight_min": 0.026379478310998367
+    }
+  },
+  "stage2_prior": "graph",
+  "status": "completed",
+  "support_floor": 8,
+  "tree_k": 8,
+  "tree_smoothing": 0.25
+}

@@ -1,0 +1,17 @@
+{
+  "seed": 1101,
+  "cells": 5000,
+  "genes": 30172,
+  "donors": 20,
+  "donors_per_condition": 10,
+  "cells_per_donor": 250,
+  "minimum_source_cells_per_donor": 500,
+  "sampling": "Within each condition, sample 10 eligible donors, sort their IDs, then sample 250 cells per donor; retain source row order.",
+  "count_location": "X (copied from source raw/X)",
+  "gene_selection": "All source raw genes; no feature selection in the bundled file.",
+  "cell_types_used_for_sampling": false,
+  "source_citation": "Publication: https://doi.org/10.1126/science.abf1970 Dataset Version: https://datasets.cellxgene.cziscience.com/4118e166-34f5-4c1f-9eed-c64b90a3dace.h5ad curated and distributed by CZ CELLxGENE Discover in Collection: https://cellxgene.cziscience.com/collections/436154da-bcf1-4130-9c8b-120ff9a888f2",
+  "cell_order_sha256": "05423f885c88b86a21e709afeb147effbe8fcd37990972a34132402964c7813a",
+  "gene_order_sha256": "a81225049dfe23cec3986c812f1bf6b023469d9f8e682370809046516305844e",
+  "h5ad_sha256": "808f99bba4006355b10729882c1ebf7b318c32e680ae41e8c945ec8da40bab77"
+}

@@ -1,0 +1,17 @@
+task	metric	value
+Neighborhood preservation	Trustworthiness	0.9023574688926406
+Neighborhood preservation	Continuity	0.9124845870068155
+Neighborhood preservation	Neighbor overlap	0.10818518518518519
+Neighborhood preservation	Triplet agreement	0.834071328391104
+Downstream clustering	NMI	0.7189568739607423
+Downstream clustering	Fowlkes–Mallows	0.6705949435972927
+Downstream clustering	Matched macro recall	0.6860401436420046
+Downstream clustering	B³ F1	0.6927037996321705
+Gene co-expression	Gene-pair Spearman	0.9287705202102698
+Gene co-expression	Signed edge AP	0.6373412659966219
+Gene co-expression	Gene centrality Spearman	0.8453221330533265
+Gene co-expression	Module subspace overlap	0.7471585870798846
+Cross-donor annotation	Macro F1	0.8778963825563069
+Cross-donor annotation	Macro AP	0.8846474482489756
+Cross-donor annotation	Macro AUROC	0.9787619035334872
+Cross-donor annotation	Top-3 macro recall	0.9903506864763505

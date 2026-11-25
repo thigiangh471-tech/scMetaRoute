@@ -1,0 +1,14 @@
+{
+  "all_gene_totals_preserved": true,
+  "assigned_cells": 5000,
+  "expression_shape": [
+    100,
+    2000
+  ],
+  "input_cells": 5000,
+  "relation_shape": [
+    100,
+    100
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,6 @@
+case	cell_type	case_donors	control_donors	reference_DE_genes	spearman	rmse	sign_agreement	significant_sign_agreement	recovery_top_100	recovery_top_400
+systemic lupus erythematosus	B cell	6	10	0	0.3388236237270951	1.1012096916664846	0.6895			
+systemic lupus erythematosus	CD4-positive, alpha-beta T cell	9	10	0	0.31130550290605974	0.9465725491624385	0.6355			
+systemic lupus erythematosus	CD8-positive, alpha-beta T cell	9	10	0	0.41254097872669543	0.9430915337996829	0.619			
+systemic lupus erythematosus	classical monocyte	10	10	0	0.4736114075124738	0.7393304545288295	0.7545			
+systemic lupus erythematosus	natural killer cell	3	6	0	0.287143543608321	1.6307987387922263	0.6075			
